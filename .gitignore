@@ -1,0 +1,5 @@
+# Vendored handsfree.js library — not used by the game, and it carries its own git repo
+handsfree/
+
+# Superseded prototypes kept locally only
+archive/
